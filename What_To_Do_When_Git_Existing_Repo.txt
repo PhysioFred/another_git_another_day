@@ -1,0 +1,1 @@
+When checking git status of repo go through: 1) git status 2) git remote -v 3) git config --list
